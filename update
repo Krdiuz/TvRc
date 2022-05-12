@@ -1,8 +1,8 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nueva Actualización",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=",
-  "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
+  "UrlUpdate": "https://raw.githubusercontent.com/Kevin231/Kevin231/main/update",
+  "Sms": "https://raw.githubusercontent.com/Kevin231/Kevin231/main/Mensaje",
   "EmailFeedback": "@Jarok30",
   "UrlContato": "https://t.me/@Jarok30",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Tigo CO",
+      "Name": "Tigo Colombia",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "13.227.26.45",
