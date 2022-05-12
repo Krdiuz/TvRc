@@ -1,1 +1,90 @@
-8z9F4o09fvlAHSh2Hlk6n2Ka6iuvp5SJUTE/alVKJMFCe+9Oxt+JSuAXUT2SktXTVMKsQoVq7bGmtKQXJNtAN95WDbnTpClHE1sX7jsg7BVDhWQHRqys8y+mR6aCkwQU5mUfMIq3kER4odt++5aFtzuvwornbZNOZ2FfZHS4U8l+RHKk2/wXSbGkFwZxjnsuh8aMgGk/B/e8dqCIJlclUgjicxI5X1guA23YB6ZmuDEhvWSDWofnRnHzfjasJjrF+1xCSIpo73b1w6AKusc9SCjSYEI9KeHYuzyF42G8ZDp9rftCjuBOmerJ1t4VEvJW99wBA/q8SkVbHlzc2Lbm5yyRhLFcj3ABHh/0/47ITrhh/lgtqtZx9f59S0N/7MF3VvP4C2kXic+CQWYhx8YnvGhIdtFUBgLTB8xVnk6z+ajVGRllqHC5pMAPtSih3QHC4QzMCge5+AADLlwFg39F3wV7A4qWV3SRVRuG+5jz7lliWuJGNK3RMBEeQQJ6eST1yita5VUQZ0WXCR9M7WyRFgEO5C//6Kd6X4HfYDu8myjPMYVzrngt2gte+O4i6FsJBFSdM/9gz8X5cxL4RfnFmUOeIvBb2iEgqP7WNLanvv51CD6f3AB0pJaTIizoL94x/jAwH7qwDo01Mc5xxHAXOV2c6iZGPEcwZFiC9blrnYmddXHsdhjE6PEIVe/gbjdUUWXz7k1ZPzwZAkLnrBB6vp888SRESbLK3hJQbV1d/ji8TgmupizouNibr7d7gebDlE4kzc4fgzZG4dFDqU79QMK2GvqHVNmCtbLICYhmFQhTtQpMPtBhKHmTNl1Csw2fFEJY5wU/yxfl7H/XTR5UCJcuQ9tVS4Jty4t8xjem6I5nLGxC99BhOX7FR4dnSF2Gb49TstvKpiSKpB3qrjTHlV7HHM7Cijg8MoX6VMjYZi0GFxfaLKI+Bm1R3f3ocPXRcGQTo+FNsRPcxT6MQnv7cfJDti/tuYzz7Q2gA0g1GlFaChGNlRNP8HLpZmL3sMyqIIuHljF3CbT6ls/kNvxqX3pyymtljfH8XTXn8eTonuYhLWihAXuCyULujT1Iq0nVbCXYk3vtnN894uyXAV3jNttVrgIMQOaAn4y6nH9hc7stmsrV5EnRXxyxoFEW2/26MROVVE2MeArLXohvAms8YJlkRU9UWuDNkufsVfcR6ycAF/F4Vsa7UJHpQYfvoO13ccX+9n9gWrVvHxxRQWx95KeNvvK44f6YT6SPcdN4Qpx7rOMAmJbZ2Upu4QnaB5RWL94C5pNkcJI6aGvSFc7TD+ZOgd6PfytXFx4VatW9g9g5LAxaIWbP2qekl5LTMa/c1ne7I4jBHwY0wA/HayyTMJIXDXCLN2sITBPYYwBqg+J07j2O1xT8PZdDXyMrWemSpgVfb3VIhCAGYDRc7D/RGIjvncd/p4cOYEQzjZutL6gnkW2Re0yfcibvNSqoVRU9D4J3+Z66mfOGl4MtQO5kndvYD+ypaRR3C8O+6wt4Risj79HtkZ0vyRCcSZKw57Sq3wpd7psmahKGvx7g35OZkQhikn5dz4Xf5Ipk/SGbMtCYpOvR5ACrjCcncrUfI1+M/35Frbe/Yh4Csifg7NYnPQ==
+{
+  "Version": "1.0.0",
+  "ReleaseNotes": "Nueva Actualización",
+  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=",
+  "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
+  "EmailFeedback": "@Jarok30",
+  "UrlContato": "https://t.me/@Jarok30",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "Tigo CO",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "13.227.26.45",
+      "CheckUser": "http://sua_api",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {"Name": "Movistar CO",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "apolossh.tk",
+      "CheckUser": "http://sua_api",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+     }
+  ],
+  "Networks": [
+    {
+      "Name": "Tigo USA",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2s85439l5sw4n.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d2s85439l5sw4n.cloudfront.net",
+      "TlsIP": "13.227.26.45",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Tigo BR",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3ogv4hclt3k6h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d3ogv4hclt3k6h.cloudfront.net",
+      "TlsIP": "13.227.26.45",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Movistar USA",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2s85439l5sw4n.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d2s85439l5sw4n.cloudfront.net",
+      "TlsIP": "13.227.19.143",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Movistar BR",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3ogv4hclt3k6h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "d3ogv4hclt3k6h.cloudfront.net",
+      "TlsIP": "13.227.19.143",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "Oi",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    }
+  ]
+}
